@@ -1,0 +1,2147 @@
+By Dr. Sadia Nadeem and the DEI Toolkit Team
+FAST School of Management, NUCES, PakistanGENDER DEI TOOLKIT: 
+BEST PRACTICES TO ENHANCE
+GENDER EQUALITY IN PAKISTAN 
+
+GENDER DEI TOOLKIT: 
+BEST PRACTICES TO ENHANCE
+GENDER EQUALITY IN PAKISTAN 
+
+GENDER DEI TOOLKIT
+© 2022 Management Advancement Research Centre 
+FAST School of Management 
+National University of Computer and Emerging Sciences 
+A.K. Brohi Road, H-11/4 
+Islamabad
+Pakistan 
+by
+Sadia Nadeem 
+Ayesha Siddiqa
+Javeria Jamil
+Neeha Khan
+Razeen Fawad
+Ayesha Bano
+Please cite the toolkit as: Nadeem, S., Siddiqa, A., Jamil, J., Khan, N., Fawad, R., & Bano. A. (2022).
+Gender DEI Toolkit: Best practices to enhance gender equality in Pakistan. Islamabad: Management
+Advancement Research Centre, FAST-NUCES.
+
+GENDER DEI TOOLKIT
+SECTION 2: BEST PRACTICES UNDER GDEIB CATEGORIES EXECUTIVE SUMMARYTable of Contents
+GENDER DEI TOOLS: SUMMARY OF FINDINGS
+iSECTION 1: INTRODUCTION
+SECTION 3: CONCLUSION Meet the team
+Background 
+Purpose of the toolkit
+Women's representation in the workforce in Pakistan
+Quaid-e-Azam's vision for the women of Pakistan
+Women in Islamic history
+Acknowledgements2
+
+GDEIB: Standards for organizations around the world
+Category 1: Vision, Strategy and Business Impact 
+Category 2: Leadership and Accountability
+Category 3: DEI Structure and Implementation
+Category 4: Recruitment
+Category 5: Advancement and Retention
+Category 6: Job Design, Classification and Compensation 
+Category 7: Work-Life Integration, Flexibility and Benefits 
+Category 8: Assessment, Measurement and Research 
+Category 9: DEI Communications
+Category 10: DEI Learning and Development 
+Category 11: Connecting DEI and Sustainability
+Category 12: Community, Government Relations and Philanthropy 
+Category 13: Services and Products, Marketing and Responsible Sourcing 
+GENDER DEI TOOLKIT
+List of Tables
+Table 1: Examples of pillars of the DEI strategy
+Table 2: Examples of returnship programs 
+Table 3: Examples of women's leadership development programs
+Table 4: Examples of benefits and flexibility offered by organizations
+Table 5: Examples of maternity leave duration in organizations
+Table 6: Examples of flexible working hours policies devised by organizations
+Table 7: Examples of paternity leave policy of organizations
+Table 8: Examples of sabbatical leave policies of organizations
+Table 9: Examples of additional DEI analytics used by organizations
+Table 10: Examples of internal web spaces used by organizations to promote DEI
+Table 11: Examples of additional DEI training and learning initiatives
+Table 12: Examples of organizations providing support for women-led businesses 
+Table 13: Examples of community-based capacity development programs for women 
+List of Figures
+Figure 1: Tools for Vision, Strategy and Business Impact
+Figure 2: Tools for Leadership and Accountability
+Figure 3: Tools for DEI Structure and Implementation
+Figure 4: Tools for Recruitment
+Figure 5: Tools for Advancement and Retention
+Figure 6: Tools for Job Design, Classification and Compensation
+Figure 7: Tools for Work-Life Integration, Benefits and Flexibility
+Figure 8: Tools for Assessment, Measurement and Research 
+Figure 9: Examples of common measures for gender DEI analytics
+Figure 10 : Tools for DEI Communications
+Figure 11 : Tools for DEI Learning and Development
+Figure 12 : Tools for Connecting DEI and Sustainability
+Figure 13: Tools for Community, Government Relations and Philanthropy
+Figure 14: Tools for Services and Products, Marketing and Responsible Sourcing
+Figure 15: Other dimensions of diversity 
+The Gender DEI Toolkit comprises of three main sections. Section 1
+is the introductory section which provides a brief context of the
+toolkit. It highlights the urgent need to increase women’s
+participation in the labor force in Pakistan; such participation is
+supported by the vision of the founding father, Quaid-e-Azam, and by
+Islam. Section 1 also explains the key objectives of the toolkit, which
+include enhancing understanding of DEI through explaining various
+dimensions of DEI practices, sharing practical examples of DEI
+initiatives from Pakistani organizations under these dimensions, and
+hence contributing to nation-building through supporting and
+empowering females in the workplace. GENDER DEI TOOLKIT
+Executive Summary 
+This Gender DEI Toolkit is developed on the basis of best practice examples collected from Pakistani
+organizations. Its purpose is to serve as an indigenous resource to facilitate organizations in increasing the
+adoption of gender DEI practices. The toolkit presents examples from various Pakistani organizations under
+the 13 categories adopted from the international GDEIB 2021 standards. While examples of DEI practices
+that exist in organizations across the world are available in international books and toolkits, examples from
+the Pakistani context are likely to be more relevant for organizations operating in Pakistan, thereby
+encouraging the wider adoption of such practices.
+Finally, Section 3 concludes the toolkit. It mentions a few examples of organizational practices catering to
+diversities other than gender, and recommends the need to enhance efforts in this area as well. This toolkit is
+a first step undertaken by the Management Advancement Research Centre (MARC) to facilitate the wider
+adoption of gender DEI practices in Pakistani organizations. As a way forward, there is an urgent need to
+share best practices, engage in dialogue, and discuss commonly faced challenges in the implementation of
+gender DEI practices with the aim to facilitate nation-building through supporting females in the
+workplace. There is also a need to develop additional toolkits or practical guides to facilitate
+implementation of practices to enhance various forms of diversities in organizations in Pakistan. Section 2 is the main section of the toolkit, and provides practical
+examples of gender DEI best practices currently adopted by Pakistani
+organizations. This section briefly explains the 15 categories of the
+international GDEIB 2021 standards, and then divides the examples
+from Pakistani organizations into 47 tools under 13 categories of
+GDEIB 2021. Several of the tools have sub-categories under them; thus
+the toolkit presents over 80 practical tools, with examples from 19
+organizations who have generously shared examples of their best
+practices. These organizations (in alphabetical order) are as follows: 
+ Abacus, Bank Alfalah, British Council, Engro Polymers and
+Chemicals Limited, Feroze1888, FINCA Microfinance Bank Limited,
+Hashoo Group, HRSG, Interloop, Jazz, JS Bank, Mobilink
+Microfinance Bank Limited, PPAF, PTCL Group, S&P Global,
+Telenor, Teradata, TPL Corporation and Unilever.
+SECTION  1
+Meet the team
+Background 
+Purpose of the toolkit
+Women's representation in the workforce in Pakistan
+Quaid-e-azam's vision for the women of Pakistan
+Women in Islamic history
+AcknowledgementsGENDER DEI TOOLKIT
+Introduction
+
+I am delighted to share this Gender DEI Toolkit with organizations
+across Pakistan. I conceived the idea in 2019, after acting as a jury
+member for the Global DEI awards in 2018 and 2019. These awards are
+a praiseworthy effort by the HR Metrics to encourage behavioral and
+cultural change towards DEI in organizations in Pakistan. In the
+process of reviewing the various practices from many organizations as
+a jury member, I felt that sharing and learning from each other was
+the best way to build a diverse and inclusive environment in
+organizations and create a positive change in the society.
+ 
+The toolkit is planned as an indigenous resource and presents tools 
+ extracted by the MARC team from practices of Pakistani
+organizations; best practices across the globe are available in
+international books and toolkits. I hope the toolkit will serve as a
+useful practical resource for organizations in Pakistan who want to set
+small or ambitious targets to contribute towards nation building
+through supporting females in the workplace. MEET THE TEAM
+Introductory Message
+Dr. Sadia Nadeem
+Professor, FAST School of Management, NUCES
+Director MARC
+Ayesha Siddiqa Javeria Jamil Neeha Khan
+Razeen Fawad Ayesha BanoDr. Sadia Nadeem
+
+
+BACKGROUND
+In order to utilize the skills and experience of women, organizations need to focus on gender DEI practices. A
+number of Pakistani organizations understand the need to bring this change and are making conscious efforts
+to foster an inclusive environment, yet most of the organizations still have a long way to go. Societal norms
+and the patriarchal mindset which governs the everyday life in Pakistan also has a significant impact on
+workplace gender diversity. Whether it is enhancing women representation in firms, devising women friendly
+initiatives or effective policy implementation, these norms become obstacles for women's empowerment in
+the country. Currently, only 20.7% of women are active in the workforce and many leave their jobs due to the
+lack of accommodating policies, worsening the situation.  Therefore, a strong need is felt for creating
+awareness and launching innovative policies which would act as stepping stones for organizations to promote
+gender DEI. The corporate sector can play a major role in facilitating women, channelizing their abilities and
+helping them become future leaders by acknowledging their responsibilities and adopting gender DEI best
+practices. 
+Diversity: 
+Diversity means the collective
+mixture of human beings with
+varying characteristics, and
+the identities that they have,
+coexisting within an
+organization.
+Equity:
+Equity refers to fairness. It
+recognizes that each person
+has different circumstances,
+and allocates the exact
+resources and opportunities
+that are required to reach an
+equal outcome.
+Inclusion:
+Inclusion at work reflects an
+environment where all
+individuals are treated fairly
+and with respect, regardless
+of their diversities, and are
+provided equal access to
+opportunities and resources
+which allow them to be fully
+engaged in organizational
+activities, and contribute to
+its success.
+key step while adopting and expanding the use of DEI practices is understanding the difference between
+the key terms of diversity, equity and inclusion. SECTION 1: INTRODUCTION
+
+PURPOSE OF THE TOOLKIT
+This toolkit has been developed to help organizations progressively adopt best practices that foster gender
+DEI. It primarily intends to reduce gaps that hinder gender DEI by sharing best practices under the 15
+categories of the GDEIB 2021 standards. It identifies multiple tools under each category that may be employed
+by organizations to enhance DEI at the workplace. These tools have been derived from gender DEI best
+practices implemented in organizations in Pakistan.  
+To serve as a practical guide for
+organizations to foster a diverse and
+inclusive environment. 
+To enhance understanding of diversity,
+equity and inclusion, through explaining
+various dimensions of DEI initiatives, as
+stated in the GDEIB 2021. 
+To share practical ideas to improve DEI
+practices in organizations, by highlighting
+the DEI best practices implemented within
+organizations in Pakistan. 
+To facilitate organizations in self-
+assessment, by identifying the gaps that
+exist between the current organizational
+practices and best DEI practices.
+To cater to nation building through
+supporting and empowering females in the
+workplace, contributing to the 5th
+Sustainable Development Goal (SDG),
+developed by the UN, namely gender
+equality.Following are the key objectives of the toolkit: GENDER DEI TOOLKIT
+
+* Source: Global Gender Gap Report (2022). World Economic Forum. 
+https://www.weforum.org/reports/global-gender-gap-report-2022.Page 5SECTION 1: INTRODUCTION
+WOMEN'S REPRESENTATION IN THE
+WORKFORCE IN PAKISTAN
+NEED FOR URGENT ACTION
+COUNTRY STATISTICS (2021 - 2022)
+
+8th among nine countries in South Asia,
+namely Bangladesh, Nepal, Sri Lanka,
+India, Iran, Maldives, Bhutan, Pakistan
+and Afghanistan on the gender parity
+index.
+Only 23.4% of professional and technical
+roles held by women. 145/146Ranked 145th out of 146 countries on the
+gender parity index.
+Only 20.7% women active in the labor
+market. 
+
+Only 4.5% of women are legislators, senior
+officials and managers. 
+
+"No nation can
+rise to the
+height of glory
+unless your
+women are side
+by side with
+you.”
+ 
+Quaid-e-Azam  
+Muhammad  Ali  Jinnah
+
+Fatima Jinnah was the first female dentist of the
+combined subcontinent. In 1919, she was accepted in
+the very competitive university of Calcutta where she
+studied dentistry at the Dr. R. Ahmad dental
+institution. Following her graduation, she pursued
+her dream of founding a dental clinic in Bombay in
+1923. Although, she was extremely successful in her
+career, she left dentistry to support her brother for
+the cause of Pakistan.  
+ 
+QUAID-E-AZAM'S VISION FOR THE
+WOMEN OF PAKISTAN
+ 
+Pakistan was created in the name of Islam. The Islamic history provides numerous examples of strong,
+empowered and resilient women who serve as role models for women to confidently take up careers, establish
+and lead businesses and work side-by-side with men in all domains of life. 
+Hazrat Khadijah (RA) was a successful and leading business woman in Arabia. She inherited the abilities of her
+father, who was a top merchant. She expanded her business and made it larger than all the Quraish trades put
+together through her vision, intelligence and hard work. She was able to achieve all this in a male-dominating
+era while also maintaining her truthful and pious image. 
+Hazrat Aishah (RA)’s life serves as an excellent model for women who want to thrive in scholarship, military
+leadership and politics. She had exceptional public speaking skills, had directed an army on the war field and
+taught Islamic law to men and women. 
+Shafa Bint Adwiya (RA) was made the in charge of administering Madinah’s marketplace during the caliphate
+of Hazrat Umar ibn Khattab (RA). She was given the responsibility of ensuring that all commercial transactions
+followed the law and also defended customers against deception and other nefarious activities. 
+
+WOMEN IN ISLAMIC HISTORY:
+
+Pakistan was created in the name of Islam. The Islamic history provides numerous examples of strong,
+empowered and resilient women who serve as role models for women to confidently take up careers, establish
+and lead businesses and work side-by-side with men in all domains of life.
+
+Hazrat Khadijah (RA) was a successful and leading business woman in Arabia. She inherited the abilities of her
+father, who was a top merchant. She expanded her business and made it larger than all the Quraish trades put
+together through her vision, intelligence and hard work. She was able to achieve all this in a male-dominating
+era while also maintaining her truthful and pious image.
+
+Hazrat Aishah (RA)’s life serves as an excellent model for women who want to thrive in scholarship, military
+leadership and politics. She had exceptional public speaking skills, had directed an army on the war field and
+taught Islamic law to men and women.
+
+Shafa Bint Adwiya (RA) was made the in charge of administering Madinah’s marketplace during the caliphate
+of Hazrat Umar ibn Khattab (RA). She was given the responsibility of ensuring that all commercial transactions
+followed the law and also defended customers against deception and other nefarious activities.
+
+GDEIB: STANDARDS FOR ORGANIZATIONS
+AROUND THE WORLD
+The design of Section 2 of this toolkit is based on the 15 categories of the Global Diversity, Equity and
+Inclusion Benchmarks (GDEIB) 2021, © Molefi, O'Mara and Richter. The GDEIB 2021 standards are published
+by the Centre for Global Inclusion with the support and input of 112 expert panelists from around the world,
+and are used in this toolkit with permission. These 15 categories, divided into four groups, are a resource for
+planning actions to enhance DEI initiatives and promoting a culture of inclusivity and equity in organizations.
+An overview of the four groups and 15 categories, as per the GDEIB 2021 standards, is provided below. 
+THE FOUNDATION
+GROUP: 
+DRIVE THE STRATEGY
+1. Vision: Develop a strong rationale for DEI vision, mission, and strategy and align it to
+organizational goals.
+2. Leadership: Hold leaders accountable for implementing the organization’s DEI vision,
+setting goals, achieving results, and being role models.
+3. Structure: Provide visible, dedicated support and structure with authority and budget
+to effectively implement DEI.
+THE INTERNAL GROUP:
+ATTRACT AND RETAIN
+PEOPLE
+4. Recruitment: Ensure that attraction, sourcing, and recruitment is done through the
+lens of DEI. 
+5. Advancement: Ensure that DEI is integrated into professional development,
+performance management, advancement, and retention.
+6. Compensation: Ensure that job design and classification are evaluated for bias and
+that compensation is equitable across key dimensions of diversity.
+7. Benefits & flexibility: Achieve work-life integration, flexibility, and equitable benefits.
+Flexible work options are widely available and accessible.
+THE BRIDGING GROUP: 
+ALIGN AND CONNECT
+8. Assessment: Ensure that all assessments, measurement, and research guide DEI
+decisions.
+9. Communication: Make communication clear, simple to understand and a crucial force
+in achieving the organization’s DEI goals.
+10. Learning: Educate all to achieve the level of DEI competence and confidence needed
+to create a diverse, equitable, and inclusive organization.
+11. Sustainability: Connect the organization’s DEI and sustainability initiatives to
+increase the effectiveness of both.
+THE EXTERNAL GROUP:
+LISTEN TO AND SERVE
+THE SOCIETY
+12. Community: Be proactive in working with community, public and private
+partnerships, government, society at large, and through philanthropy. 
+13. Services & Products: Embed DEI in services and products development to serve
+diverse customers and clients. 
+14. Marketing: Integrate DEI into marketing and customer service. 
+15. Responsible Sourcing: Practice responsible and ethical sourcing. Develop and nurture
+underrepresented suppliers.
+
+
+
+A DEI strategy 
+Organizational
+values that
+promote DEIA DEI mottoVISION, STRATEGY AND BUSINESS IMPACTGENDER DEI TOOLKIT
+
+
+Hashoo Foundation: DEI Vision statement 
+An ethical, equitable, inclusive society in which people live with dignity and have power over their own
+lives.
+Jazz: DEI Mission statement
+To improve the lives and livelihoods of women in Pakistan through technology.
+PTCL Group: DEI Vision statement
+To be recognized as an inclusive workplace where diversity is appreciated and is considered imperative for
+enhanced business performance.
+PTCL Group: DEI Mission statement
+To foster a culture of diversity, inclusion, and belonging through our systems, processes, and human
+interactions.
+Teradata: DEI Vision statement
+We are committed to an inclusive workplace culture where everyone feels welcome, respected, support ed,
+valued and can be themselves.
+Telenor: DEI Vision statement 
+Winning together by valuing our differences, leading to a High-Performance Culture. 
+
+Organizations that are trying to improve DEI planning and implementation prepare strategic plans in order to enhance their
+DEI efforts and materialize their long-term vision regarding DEI. Some organizations have developed specific strategies while
+others have general roadmaps laid out, to create a culture that consistently promotes DEI; it is a part of their overall strategy
+and is integrated in their organizational culture.
+
+Unilever aims to eliminate any kind of bias or
+discrimination in their policies and practices.
+
+Teradata acknowledges the attainment of DEI
+as a challenge. They believe that it is a gap that
+needs to be addressed for which they create a
+sense of acknowledgement across the
+organizations. This ensures that each individual
+demonstrates ownership to promote equality
+and puts in their best effort to eradicate
+discrimination.
+ 
+MMBL has a two-fold strategy of female
+empowerment. The first wing called Women
+Inspirational Network (WIN) program focuses
+on women empowerment. It encourages and
+facilitates female customers or borrowers,
+belonging from rural or urban areas, to become
+entrepreneurs by training and digitally
+equipping them. The other wing is called Mobi
+Circle, which focuses on internal women
+empowerment by developing females as
+emerging leaders and empowering them. 
+
+The DEI strategy of EPCL is divided into the
+external and internal component. The external
+component of the DEI strategy of the
+organization looks for ways to collaborate with
+the industry to increase the number of females
+in STEM education. The internal focus lies on
+bringing in the right talent, developing their
+capability, and ensuring their retention.
+
+British Council's strategy in 2021 revolves
+around three areas, i.e., business case, moral
+case, and legal case. This strategy has three
+objectives; an inclusive organizational culture,
+developing capability and leaders, and
+measuring performance, impact and legal
+compliance.
+
+JS Bank formulated a three-year D&I strategy
+in 2021. The first year focused on introducing
+initiatives for enhancing women
+representation, progression and developing
+family friendly policies and inclusion policies
+and efforts for people with disabilities. The
+next two years focus on enhancing
+interventions for these groups, along with
+introducing interventions for other diversities. 
+
+At S&P Global, DEI is central to who they are
+and is vital to their success. DEI is rooted in
+three key areas; people, customers, and
+community. The company integrates DEI into
+everything they do, starting with their
+workforce and workplace, and extending far
+beyond company walls, into the marketplace
+and local communities. 
+Category 1: vision, strategy and business impact 
+
+AbacusBecome an employer of choice by attracting and retaining top talent
+Develop a diverse pool of talent
+Secure an inclusive work culture
+Leverage D&I in the marketplace in partnership with customers, suppliers and communities
+
+Bank Alfalah
+Introducing D&I analytics 
+Taking a conscious approach to recruitment
+Focusing on learning and development
+Catering to employee retention and engagement needs
+Jazz
+People: Covering talent, leadership and culture
+Business: Covering content, products and partners
+Community: Covering public image, advocacy and service
+TelenorFemale talent development 
+Female retention
+Female inclusion
+Several participating organizations have devised DEI strategic plans around three to four main pillars, centered around
+different aspects of gender DEI. Examples of these are listed in Table 1. 
+Organizational values that promote DEI
+Organizations aim at creating an ideal workplace environment and culture where employees feel included and rewarded
+for their efforts. Table 1: Examples of pillars of the DEI strategy
+Unilever's philosophy is reflected in everything the company does. For instance, D&I has ownership from the
+top management, the company has a clearly spelled out purpose for pursuing D&I, a proper structure for
+enablement, channels for articulating and communicating its D&I philosophy and its essentiality across the
+organization.
+EPCL believes in motivating, developing, and rewarding employees as a means of achieving success, respecting
+its employees’ rights, and encouraging freedom of expression and open dialogue.
+Abacus’s core values concentrate on attracting the best talent and maintaining a diverse and inclusive
+organizational environment. Gender diversity is catered to by engaging women, not only in the lower tiers but
+in the higher positions as well, and sustaining a female-friendly workplace culture. 
+
+Feroze1888's value system is defined as “PROSPER”. P stands for People Development, R for Respect, O for
+Ownership and Accountability, S for Success Will, P for Proactive, E for Excellence in work, and R for
+Reliability. Every Feroze1888 employee has had trainings on PROSPER and are encouraged to know it by
+heart. These values are a reflection of their organization's aspiration for ensuring an equitable and inclusive
+workplace.
+Few organizations have formed DEI mottos implying the importance of synergy that is created when diverse groups of
+people collaborate and work together. These mottos serve as a declaration of the organization's commitment to furthering
+DEI 
+Hashoo Group:
+Together we make a difference
+Telenor:
+Creating together services and solutions that include different perspectives.
+ 
+
+Role modelling
+by male leaders
+LEADERSHIP AND ACCOUNTABILITYGENDER DEI TOOLKIT
+CATEGORY 2: 
+Leadership's
+commitment to DEI
+Executives'
+involvement in
+DEI
+Industry Examples of Tools for Leadership and Accountability
+Leaders of the organizations who have successfully implemented DEI practices in Pakistan are committed to a very proactive
+approach with regards to gender DEI within their organizations. This is evident from the statistics presenting enhanced
+female representation in various organizations.
+Under the committed leadership
+of former CEO of PPAF,
+women's representation
+significantly increased from 19
+percent to 33 percent from 2011 to
+2021. 
+FINCA Microfinance Bank
+Limited has also improved its
+diversity ratio from 17% to 24.7%
+through the dedicated efforts of
+its leadership
+The board of directors at TPL Corp set
+fourth an agenda in 2022 to have a
+more diverse workforce. It is integral
+to TPL Corp that the top management
+feels strongly about having a diverse
+workforce, encouraging the rest of the
+team and senior management to
+inculcate and adopt practices that have
+a rippling effect across the entire
+organization.
+
+Executives' involvement in DEI 
+Members of the board of directors and other senior executives of different organizations are actively engaged in the promotion
+of DEI.  
+EPCL's executives including its members, CEO, board, and the entire management committee is truly invested
+and committed to increasing female representation in the organization. This commitment from the top allows
+the support needed to extend DEI initiatives into the organization. 
+
+Feroze1888's board of directors adopt practical steps to promote a diverse and inclusive environment within 
+the organization. They keep track of real-time progress through analyzing stats and gauging where they
+currently are and where they want to be headed by setting yearly targets in the quarterly meetings. 
+Abacus, which is led by a female CEO, Ms. Fatima Asad-Said, has a clear DEI vision that brought the company
+towards the progressive change of diversity and inclusivity. The departments of corporate strategy and finance,
+corporate human resources, corporate communication and branding, and D&I are also being led by female
+leaders. The company has appointed senior representatives in all practice areas, who act as visible champions of
+diversity. 
+
+The Deputy Chairman of the Hashoo Group, Mr. Murtaza Hashwani, has taken a very vocal and a deliberate
+stand with regards to gender DEI in terms of recruitment of employees, their pay packages, engagement and
+career growth levels. The senior management of Hashoo Group also displays great commitment towards
+enhancing gender inclusivity in male dominant departments such as the finance department, by encouraging
+and training females to work in these departments where female strength is generally low. 
+
+At Unilever, each function is gauged through the lens of diversity. Male to female ratio of every department is
+presented to the CEO, the management committee, and the South Asia cluster on a monthly basis. The top
+management analyzes these numbers and plans accordingly.
+Executives at Teradata take a DEI pledge, which inculcates the value system of Teradata and signifies the
+commitment that the senior management has towards DEI.
+Our Pledge to Diversity, Equity and Inclusion
+We will encourage all to speak up when they experience or witness intolerance, mistreatment, incivility, or
+conscious/unconscious bias in action.
+We will ask ourselves, “Do our actions and words reflect the values of inclusion?”
+We will initiate meaningful, complex and sometimes difficult conversations with colleagues. 
+We commit to ensuring an inclusive environment for all. We will see different perspectives and respect points of view and
+communications styles that are different from our own. 
+We will ensure our actions and words reflect the value of and our commitment to inclusion. 
+We will encourage all to move outside zones to learn about the experiences and perspectives of others. 
+Actively contribute to a culture in which racism is not accepted. 
+Acknowledge and confront incidents of racial discrimination and provide support for the employees who are negatively
+affected. 
+Engage in ongoing opportunities to learn about the importance of diversity, equity and inclusion, including our collective
+responsibility with respect to anti-racist behaviors and processes.Our Pledge to Diversity, Equity and Inclusion 
+Teradata is an Anti-Racist Company 
+In addition, we are committed to be an anti-racist company in which we identify and extinguish any system, value, behavior or
+organizational process but perpetuates systemic racism. To do this, we commit to:
+By committing to these behaviors and actions, together, we will create an environment 
+where employees feel safe and free from discrimination and racism.
+
+Role modelling by male leaders
+Engagement and support from men is critical for achieving true diversity and inclusion in the workplace. Male leaders at
+all levels need to actively support gender DEI and role model their ideals. A vivid example of this is male leaders becoming
+change agents and taking action to support, empower and help women achieve their goals. 
+Leadership's commitment in several of the participating organizations is reflected through the CEO's becoming Male
+Champions of Change (MCC). Members of MCC meet regularly in small action-orientated groups centered around a
+collective work plan, where they learn from and challenge their peers. As a coalition, they work collectively to publicly
+share their learnings and their progress. As individuals, change champions implement change within their organizations
+and publicly advocate for gender equality. Examples of organizations whose CEOs have served as a MCC include:
+Founder of HRSG, late Mr. Azhar's focus had been directed towards ensuring a work environment
+which was transparent, free of negativity, and allowed open communication and feedback. These values
+provided the foundation for DEI initiatives within the organization.
+The CEO of Jazz, Mr. Aamir Ibrahim's efforts have greatly contributed to the open and inclusive
+culture of Jazz, initiatives for gender-equality and enhancing women empowerment. He is an
+embodiment of inclusivity. 
+Telenor’s CEO, Mr. Irfan Wahab, took a panel pledge to promote inclusion in the organization. The
+pledge promised the presence of female employees in every internal and external panel talk, ultimately
+giving them a meaningful voice in the organization. In an exciting way to spread the message, he
+handed over his position as CEO to a female student for a single day. This symbolic takeover
+highlighted Telenor's commitment towards increased female participation in the workforce. 
+
+Industry Examples of Tools for DEI Structure and Implementation
+Budget and resources need to be allocated for the successful implementation of the DEI strategy and initiatives. In this
+regard, a few organizations have an exclusive annual budget put aside for DEI activities. For example, organizations that
+have a separate DEI department or a gender committee, allocate at least some budget exclusively to DEI. All organizations
+have some budget embedded within other budget heads. For example, embedded budget is often used for DEI training,
+various employee engagement activities, benefits offered to women etc., in most organizations. Overall, the examples
+illustrate that sufficient budget needs to be allocated to the DEI structural body and its professional staff in order to
+implement the planned strategy and achieve the DEI targets. Budget and resource allocation to DEIA suitable DEI structure
+
+At British Council, there is a diversity unit that
+involves DEI policy makers from the UK. The
+organization, thus adopts a centralized approach
+to feed the DEI policies and initiatives that are
+implemented around the world, within the
+organization locally. In Pakistan, there is a
+working group under the country lead. This
+working group consists of different staff members
+from different teams, who are engaged on
+voluntary basis, and they have 5% of their role
+dedicated to DEI.At EPCL, D&I efforts fall under the
+Talent and Culture function. In each of
+the company’s subsidiaries a different
+model exists but what they all have in
+common is that, a General Manager,
+Senior Manager and a specific employee
+look after D&I.
+FINCA Microfinance Bank Limited has a
+management subcommittee on diversity,
+inclusion and belonging (DIB), consisting of a
+leadership forum. The members of the forum
+include two female HODs, two females and
+two males from senior management, and one
+female from middle management. The bank
+has separate active committees that deal with
+issues related to sexual harassment, workplace
+harassment and workplace bullying.Interloop’s Equality and Diversity Committee
+(EDC) incorporates both females and males
+from the management. The committee's
+mandate includes D&I target setting, trainings
+on D&I and handling cases of discrimination
+or harassment.
+The Board Committees have been
+reconstituted at Abacus keeping in
+mind the D&I element, and its
+objectives are to provide executive
+leadership and direction to the D&I
+initiatives. To judge the successful
+implementation of objectives, the
+council typically meets on quarterly
+basis.Bank Alfalah's D&I council, created in the year
+2021, constitutes of twelve people out of which six
+are group heads and the rest are representatives
+from other levels in the organization. This top-
+driven group head level council meets once a
+month to discuss ideas, track the implementation
+of the D&I agenda, and plan and finalize the way
+forward. It also allocates a specific budget with
+some cushion for D&I initiatives every year. In
+addition to this, there is a network of HR
+business partners and an employee relations team
+that serve as diversity champions and play their
+part in keeping the work environment fair, equal,
+and inclusive for everyone.
+
+Teradata has a cohesive organizational structure
+with a global board. There are regional committees
+with voluntary representatives responsible for
+ensuring implementation of all plans within that
+particular region. At present there is a
+representative of DEI initiatives in Pakistan who is
+a part of the regional forum, who ensures that
+activities done outside of Pakistan are reflected
+within the country as well.Unilever has a group of forty people
+from different functions across all
+levels, who work in the form of cross-
+functional teams. These teams are
+responsible for different areas of D&I
+such as gender, transgender and
+PWDs. They share ideas with the
+management committee and the CEO
+for approval, so that they can proceed
+with executing the plan in the years
+ahead.At PTCL Group a department of DEI
+has been formed which is actively
+involved in coming up with solutions
+to increase the representation of
+women within the organization, and
+fostering a culture of inclusivity with
+the help of a strategy formulated under
+the guidance of GDEIB benchmark
+standards. The responsibility of DEI
+comes under group head Culture,
+Transformation and Change
+Management, and Assistant Manager
+(D&I).PPAF’s gender committee has been allocated a seperate
+budget to take DEI initiatives. The committee ensures
+active gender representation and participation within its
+operations. The purpose of this committee is to support
+PPAF in mainstreaming the concept and practice of
+gender equity in all its internal and external work. It also
+aims to assist PPAF’s stakeholders in meeting their
+obligations in terms of what is set out in the results
+framework to achieve Millennium Development Goals
+(MDG) of gender equality. 
+Page 21JS Bank is currently in the process of
+formulating a D&I council that will
+consist of people from the upper
+management tier, including the CEO,
+CHRO and COO. The council will
+sponsor different programs advocating
+gender diversity.  Prominent DEI roles exist at the leadership level at 
+ Jazz, demonstrating how it is one of the key priorities
+for the company. Cross functional teams are formed,
+in which employees from different departments such
+as Sustainability, Commercial, Strategy and People
+Organization are brought together, and given specific
+DEI related responsibilities and targets.  
+
+CATEGORY 4: RECRUITMENT
+Pursuing the agenda of DEI, organizations that have embraced DEI in Pakistan have carried out many initiatives to
+incorporate DEI  in their recruitment system. These initiatives broadly fall under four categories. These include gender neutral
+job advertisements, gender balanced interview panels, equitable recruitment process and returnship programs. Detailed
+examples are presented below. 
+
+Gender neutral job advertisements
+Organizations make an effort to ensure that the language used in job-ads remain gender neutral and free of any biases. This
+ensures a diverse pool of candidates. They try to project an overall supportive culture to attract and retain female talent.
+Feroze1888 and PPAF are examples of such organizations which ensure that their job advertisements are free of specific
+gender focus and have gender-inclusive language.
+
+Gender balanced interview panels
+Another important aspect which facilitates to make the recruitment and selection process unbiased, is having gender balanced
+interview panels. For example, FINCA Microfinance Bank Limited has a policy to have at least one female in the panel of
+interviewers. This incorporates female opinion and removes biases. Hashoo Group also ensures the presence of females in
+interview panels with the aim of making the interview process more inclusive and encouraging for the interviewees. MMBL
+maintains neutrality in promotion interviews by ensuring female presence in panels along with the mandatory presence of their
+female CHRO.
+Equitable recruitment process
+Many organizations in Pakistan are rigorously trying to maintain an equitable recruitment process. Examples of such
+efforts include targets for female applicants per job posting, targets for short-listing females, avoid stereotyping while
+short-listing, aggressively headhunting for females, pre-employment training for females, targeted recruitment drives for
+females and monitoring gender ratios at all stages of recruitment. Some industry examples are presented.
+
+Abacus is fully committed to the
+principle of equal opportunity and adopt
+non-discriminatory hiring practices. The
+company ensures one to two ratio when
+shortlisting resumes and for this purpose
+it aggressively headhunts to find talented
+and skillful females who can proficiently
+meet the technical requirements of the
+job. Since January 2021, Abacus has
+welcomed over 300 employees and
+consciously boarded more females on
+senior level positions for business-critical
+roles to ensure the inclusion of females in
+strategic decision making.
+FINCA Microfinance Bank Limited has a
+program called “Trainee Credit Officer”
+(TCO) which hires 25 females in each
+batch as trainee credit officers and
+provides them a three-month stipend
+along with on-the-job training. The
+training involves fieldwork, mentorship,
+and disbursement and mobilization
+trainings. A female senior credit officer is
+allocated to each trainee through a buddy
+system to enhance their productivity.
+After completion of three months, those
+who fulfill the qualification criteria are
+given permanent positions as assistant
+credit officers. The company also strictly
+follows its policy of having females in the
+pool of shortlisted candidates in every
+hiring round. 
+PPAF makes conscious efforts to shortlist
+candidates from diverse backgrounds,
+especially females. Females are not
+discriminated on the basis of stereotypes
+related to their gender, and are
+encouraged to apply for technical
+positions. Equity is ensured in terms of
+providing them equal opportunity as
+males till shortlisting. After that it is
+entirely based on merit.Telenor is very actively involved in
+creating a gender balance in the
+workplace. It creates separate talent pools
+for females, and ensures that the company
+is doing 50% talent pooling of females in
+its recruitment strategy. The company is
+constantly in touch with headhunters
+across Pakistan who are on the lookout
+for female talent. This has negated the
+concept of “pink roles” and has helped in
+appointing females on tough roles in
+remote locations.
+S&P Global makes intentional investments
+in identifying and recruiting diverse talent,
+such as partnering with relevant external
+organizations and conducting targeted
+sessions for women in universities. S&P
+Global’s People Movement team in
+Islamabad has been able to increase the
+percentage of females hired to 33% in 2022,
+and has increased female representation in
+its Pakistan's workforce to 26.6%. 
+At Unilever each function has an
+internal target guiding the percentage of
+hiring that should be gender balanced.
+Similarly, the company’s flagship
+programs like management trainee
+programmes, "Unilever Leadership
+Internship Programme" (ULIP),
+"Unilever Future Leaders Programme"
+(UFLP) and supply chain trainee
+programs are all designed to enhance
+female representation. TPL Corp provides an equal chance to
+both genders to be hired; the company
+has made it mandatory for recruiters to
+try their best to shortlist as high as 50
+percent females in the organization.
+
+TPL Corp as a company encourages
+women (who have taken career breaks
+for whatever reasons) to rejoin office
+and restart their careers, be it 1 year or
+20 years.Teradata monitors the female to male
+percentage religiously and ensures that
+the hiring manager does not
+discriminate on the basis of gender
+when a CV is received and analyzed. In a conscious effort to build PTCL
+Group’s future female leadership, the
+organization inducted 30% women
+through the management trainee program
+known as “Summit”. The talent
+acquisition teams are encouraged to share
+analytics on the kind of candidates they
+are attracting for each category and
+whether there is a need to explore other
+forums for advertising jobs. 
+
+Jazz has committed to gender balance
+improvement and has worked on removing
+any systemic biases from the entire
+recruitment process with a target of
+balanced gender ratio at all stages of the
+recruitment process.MMBL recommends all its managers to
+give priority to female hiring. When a male
+and a female candidate are at par in terms
+of the required skill set, the company
+prefers to hire the female candidate.Hashoo Group has developed a merit-based
+quota system to increase representation of
+females in departments where there is
+minimal female representation. If the
+desired female candidate  lacks certain
+qualifications or experience she is provided
+coaching and mentoring. This ensures that
+the essential competencies and mandatory
+requirements are not compromised.CATEGORY 4: RECRUITMENT
+
+Returnship programs 
+Several organizations in Pakistan have introduced returnship programs for females who have taken a career break and
+want to resume their career. Companies tap in the female talent and provide ease of access needed to return to the
+corporate sector. These programs are aimed to not only offer skills - uplift, but indulge in providing a meaningful and real
+role to women, while offering emotional and social support alongside as well. Examples of such returnship programs are
+represented below
+Name of organization Program name
+Bank Alfalah is Welcome Back
+EPCL is Break Kay Baad (After the break)
+Jazz is She’s Back
+JS Bank is Reboot Program
+Telenor is  Naya Aghaaz (New beginnings)
+Unilever is Career by Choice
+ 
+Industry Examples of Tools for Advancement and Retention
+The true essence of gender DEI is observed when women are provided equal opportunities to climb up the organization
+ladder. Organizations that have DEI best practices have designed and implemented action plans in order to maintain gender
+parity in advancement and retention, After analyzing the data, we can see that majority of the practices under this category
+fall under three broad themes; equitable promotion process, women's leadership development programs and confidence
+building initiatives for women. Detailed examples of these categories are discussed below.
+
+
+Equitable promotion process
+Organizations that consider female representation across hierarchical levels as important, integrate initiatives in the talent
+review process to ensure that females are developed for leadership positions and encouraged to apply for promotions.
+Examples under this theme can be divided into two sub-themes; equitable succession planning and equitable talent reviews.
+
+In light of its aim to retain a strong talent pool of
+female employees, HRSG has reached 33% female
+representation at their senior leadership level, and is
+now focusing on promoting females to C level for
+further advancement. 
+Unilever has set an ambitious target to become gender
+balanced for mid-level management and above. The company
+has had two female CEOs in the past 10 years along with a very
+gender diverse management committee.
+At PPAF, if a position is held by a man for a
+long time, they make an effort to identify
+competent females from within the
+organization or outside to disrupt the chain
+and change the narrative. 
+FINCA Microfinance Bank Limited makes an
+effort to find competent females whenever
+there is an internal job posting, to ensure
+career growth of females in the organization. 
+TPL Corp gives special attention to women leadership by promoting
+females within the organization and enabling them to reach
+leadership roles. On April 01, 2022, the company promoted their
+female Head of Learning and Development to the position of "Chief
+Learning Officer" within the 8 months of joining.
+MMBL has a talent review and
+development plan which is
+focused on uplifting female
+employees and making them
+actively involved in leadership
+roles.
+
+Women's leadership
+development programs
+Organizations that are committed to gender DEI offer women's leadership development programs that aim to equip potential
+future leaders with the required skills and abilities. These programs facilitate women in qualifying for senior positions and help
+them in becoming successful leaders. Table 3 provides examples of women leadership development programs in various
+organizations. 
+
+Abacus 
+Next Gen Female Leaders: A program aimed at developing first time managers. It focuses on developing high
+potential females who are first time managers. The program facilitates top females to reach leadership positions
+where they can make decisions and have autonomy.
+
+Bank Alfalah
+She Lead: Women leadership development program. The program focuses on building a personal brand, self-
+promotion for women, forming effective and strategic connections, overcoming self-limiting beliefs and career
+development planning.
+
+EPCL
+Breaking the Glass Ceiling: Leadership development program for females. This program, is based on a one-year
+leadership journey for females with group coaching and one-on-one coaching sessions conducted every month.
+Each month, a different module is covered, for example communication skills, negotiation skills, presentation
+skills, and so on, thereby making women proficient in multiple competencies. It has resulted in an 11 percent
+increase in the performance ratings of females.
+
+Jazz
+Jazz has launched various talent development programs female's at all career stages. Examples include, “Phoenix",
+which focuses on essential skills for leadership potential. "Maximize", which is to maximize the technical skills in
+females, and "Empower" which is a leadership development program for females. Each of these programs is
+designed specifically for women to help them progress in their career ensuring they can easily climb the corporate
+ladder.
+
+Telenor
+Telenor has launched a female leadership program aiming to uplift senior female leaders and to encourage leaders
+to manage diversity within their teams.
+
+S&P Global
+I’m Woman: Leadership development program for females. I’m Woman was a 3-month program focused on the
+personal and professional development of 26 females from S&P Global Pakistan. The key theme of this program
+was to expand the perspectives of women who were interested in leadership positions and to facilitate their
+development through the lens of highly accomplished female executives who had been able to attain work-life
+integration. The program consisted of a series of round table discussions with senior female leaders at S&P Global,
+and the formation of mentor-mentee relationships which could continue beyond the 3 month program, by mutual
+consent between the mentor and mentee.
+
+Confidence building initiatives for women
+Organizations that have embraced DEI are deeply committed to providing initiatives that build confidence of women. These
+initiatives  can be divided into three types; DEI networks and clubs, mentorship and sponsorship for women, and support to
+overcome psychological barriers.
+
+Unilever carries out a connect and share circle
+called “She for She”, in which a senior person from
+the top 50 leaders interacts with 25 to 30 female
+employees. These circles allow females to share
+their problems, attain solutions and listen to
+inspiring experiences from one another. Initially
+these circles were limited to particular functions,
+but now the company plans to conduct them with
+cross-functional groups.
+
+PTCL Group launched its Pink Club in 2017; it undertakes
+initiatives revolving around the professional development
+and well-being of females across the company. Pink
+ambassadors appointed at all regional and zonal offices act
+as representatives of the cause for DEI-related women-
+centric initiatives. The team uses Workplace to run
+campaigns, for example Mehfil-e-Milad, Polycystic Ovarian
+Syndrome (PCOS) Awareness Campaign, and Breast
+Cancer Awareness Campaign. Each year the club celebrates
+International Women’s Day with great vigor in line with the
+global campaign by United Nations. In 2021 male employees
+at the PTCL Group pledged their support for the cause
+through the campaign “Strong Men Wear Pink”.
+
+Telenor sets up focus groups called
+"Listen and Learn" for the female
+employees with the CEO to listen
+to their ideas. Telenor has also
+established female forums
+“EmpowHer Network” that is
+dedicated to female succession
+planning and is a tool to motivate
+and support development of
+female talent. 
+
+CATEGORY 6: JOB DESIGN, CLASSIFICATION AND COMPENSATION 
+To retain and strengthen a talented pool of employees, organizations that have DEI best practices are taking steps to ensure
+parity in pay and offering flexible job design. Industry examples under these two categories are presented below.
+
+Gender pay parity
+Organizations such as EPCL, Feroze1888, JS Bank, PPAF and Abacus, put in effort to have compensation packages that are
+unbiased and free of discrimination. These organizations are frequently involved in conducting market research and health-
+checks to ensure that market competitive compensation is given to their employees. 
+Telenor is directly and actively monitoring pay parity. Telenor conducted a pay parity exercise in 2020 and has made it a
+policy to provide equal salaries for equal work, regardless of gender. Telenor Group publishes gender pay analysis annually to
+exhibit its commitment to this area. It has an annual salary review processes in place, whereby, salaries of both male and
+female employees are reviewed to ensure that no group is disadvantaged. 
+
+Flexible job design
+Almost all organizations that have DEI best practices are involved in providing a flexible job design to their employees,
+bearing in mind the responsibilities of an average Pakistani woman.  Organizations provide flexible work programs which
+enable women to effectively balance their work alongside their care obligations at home.
+
+CATEGORY 7: WORK-LIFE INTEGRATION, FLEXIBILITY AND BENEFITS 
+ 
+Additional DEI benefits  Maternity leave Flexible working hours
+Transport
+facility/allowance
+for womenPaternity leave
+Daycare or
+daycare/nanny
+allowanceSabbatical leave
+Iddat leave
+Secure on-site residences or guest houses
+Enclosure for niqab wearing women during lunch 
+Scooty loans for women 
+Adoption leave
+New mothers’ adjustment program
+Priority parking for women 
+
+Industry Examples of Tools for Work-Life Integration: 
+Organizations that have embraced DEI have introduced various benefits and flexible working arrangements for the
+sound work-life integration for female employees. These efforts facilitate women in pursing their careers while also
+catering to their personal needs. The most common benefits are maternity leave, flexible working hours, transport
+facility/allowance for women, paternity leave, daycare or daycare/nanny allowance and sabbatical leave. The less
+commonly offered additional DEI benefits include iddat leave, secure on-site residence or guest houses, enclosure for
+niqab wearing women during lunch, scotty loan for women, adoption leave, new mother's adjustment program and
+priority parking for women. These have been represented in Table 4. 
+
+Table 4: Examples of benefits and flexibility offered by organizations* 
+Organization name  Duration of maternity leave  
+Bank Alfalah  6 months (full-paid)
+EPCL  6 months (full-paid)
+FINCA Microfinance Bank Limited  3 months (full-paid) + an extendable leave of 2 months or work from home
+Jazz  6 months (full-paid for full term)
+      4 weeks (full paid in case of early miscarriage)
+      6 months (full paid in case of miscarriage in third trimester or still birth)
+MMBL  3 months (full-paid) + an extendable facilitation of up to 3 months with work from home two days a week (full-paid)
+
+Maternity leave 
+Maternity leave applies to expectant or new mothers who require time off for pregnancy, childbirth and childcare. The
+maternity leave comprises of statutory or extended leave depending upon the organization. Organizations that are
+supporting gender DEI are providing fully paid, partially paid, or unpaid maternity leave of varying time period
+exceeding legislative requirements. Table 5 has the details about some organizations that are offering generous maternity
+leaves compared to other organizations in Pakistan. 
+Table 5: Examples of maternity leave duration in organizations
+PTCL Group 3 months
+Teradata 6 months (full-paid) + an extended unpaid leave of 12 months  
+Unilever 6 months (full-paid)
+    
+Flexible working hours
+Organizations are offering various flexible working arrangements and policies to work from home to help female employees
+maintain their work-life balance; some examples are presented in Table 6. 
+Table 6: Examples of flexible working hours policies devised by organizations
+ 
+Abacus
+Abacus anywhere: This policy encourages remote working so that female
+employees feel safe, supported and productive, especially after the outbreak of
+the pandemic. While it encourages remote working for every staff member, it
+specifically provides flexible working hours to women at different life stages.
+They are allowed to work remotely, or work from home.
+ 
+FINCA Microfinance Bank Limited
+Work from home: FINCA Microfinance Bank Limited has a policy offering 4
+days’ work from home every month for females.
+
+JS Bank
+Flexible working arrangements: JS Bank provides flexible
+working hours in the form of work from home, and reduced hours, depending
+on the needs of women, especially working mothers.   
+  
+MMBL
+Flexi working hours: This policy has been devised by MMBL to allow working
+mothers to work from home. A working mother can opt for one day as a flex day
+in the week. A working mother can arrive late and leave early as long as her
+productivity is not affected.
+  
+Telenor
+Both males and females are allowed to work from home on any two days of their
+choice every week. Female employees, having children less than or equal to four
+years of age, are allowed to work home the entire week.
+
+Unilever
+Everyone at Unilever, except factory production workers, are permitted to work
+anytime, anywhere, as long as they meet business expectations.Flexible working hours
+
+Transport facilities/allowance for women 
+Transport facility or allowance is provided by several organizations so that female employees can commute easily from
+home to work. This benefit may be in the form of car pick and drop services, female specific buses, travel allowance to
+compensate for non-availability of pick and drop services, and discounts on Careem or Uber rides. Many organizations are
+offering such facilities/ allowances, as presented in Table 4.  
+
+Paternity leave 
+Paternity leave is a period of absence from work granted to a father after or shortly before the birth of his child. Organizations
+are offering paternity leaves to male employees so that they can spend time with their newly born child. Different companies
+have different policies for the paternity leaves as presented in Table 7. One organization, S&P Global, offers parental leave as
+well. Table 7: Examples of paternity leave policy of organizations
+ 
+Organization Terms of paternity leave policy
+Bank Alfalah 7 days
+EPCL 15 days of leave which can be used in the first three months of the
+child’s birth. 
+Hashoo Foundation 3 days
+Jazz 30 days to support the family whether it is a healthy pregnancy, a complex one, or if the mother has lost the child.
+PTCL Group 5 consecutive days
+S&P Global 26 weeks of paid parental leave for all parents, regardless of gender.
+Unilever 3 weeks
+
+Daycare or daycare/nanny allowance
+Daycare is a facility offered by organizations to support working parents. An in-house daycare facility enables working
+mothers to focus better on their work responsibilities without feeling the guilt of neglecting their child. Examples of
+organizations that offer in-house daycare at their head office or larger work sites include Abacus, PPAF, PTCL Group
+etc. An alternative to on-site daycare is daycare allowance that provides monetary assistance to aid working parents to
+admit their child in a daycare outside the organization’s premises such as by Jazz. Another option is to provide nanny
+allowance so that working parents may hire a nanny who would look after the child at home. Examples of organizations
+that provide daycare/nanny allowance include Bank Alfalah, HRSG, MMBL etc.  
+
+Sabbatical leave
+A sabbatical is a lengthy, intentional break from one's career. Organizations are also offering sabbatical leave as a means
+to provide flexibility to their female employees; a few examples are presented in Table 8. 
+Table 8: Examples of sabbatical leave policies of organizations
+Organization Name 
+Sabbatical Policy
+
+EPCL
+Off-track Policy: If a female employee wants to go on a sabbatical
+due to personal reasons, she is granted a leave of up to 2 years after the
+management committee’s approval. Upon her return, the organization
+accommodates her either in the same department, or elsewhere, as per
+the availability of positions at that time.
+  
+Telenor
+Female employees can take a sabbatical for a period of 6 months to 2
+years, based on "family/personal needs."
+
+Additional DEI benefits  
+Iddat leave is a leave given to a female employees in case of the death of her husband. Many organizations
+e.g. Bank Alfalah, FINCA Microfinance Bank Limited, Hashoo Groups, Interloop, MMBL and PTCL
+Group offer Iddat leave.  
+On-site residences or guest houses are provided to females when they are travelling for business proposes so
+that they have a safe place to stay and to make their stay more convenient. Table 4 presents examples of
+organizations that provide this benefit.   
+Separate enclosures for niqab wearing women during lunch have been created by organizations within the
+workplace for women who wear niqab to provide them privacy and comfort while having lunch. MMBL and
+Teradata are examples of two organizations offering this benefit.  
+Scooty loan is a short- to medium-term loan, specifically for female employees, to purchase a scooty or
+motorbike in order to make their commute easier. Bank Alfalah, FINCA Microfinance Bank Limited and
+MMBL are examples of organizations offering this benefit. 
+Adoption leaves are leaves that are provided to working mothers/parents after adoption so that they have
+the time and space to adjust and adopt the responsibilities that come with motherhood. Jazz, S&P Global
+and TPL Corp. are examples of organizations offering adoption leave. 
+New mother’s adjustment program provides coaching to women who join the workforce after becoming
+mothers, to teach them ways to maintain a healthy work-life balance. Bank Alfalah and Jazz are examples of
+organizations providing this benefit. 
+Priority parking allocates specific areas for women, irrespective of their position, to park their vehicles
+within the organization’s premises or close to the premises, thus providing them a safe and secure parking
+area. PTCL Group and TPL Corp. are examples of organizations offering this benefit. 
+An additional noteworthy initiative "Momentum" launched by Jazz to facilitate female employees.
+Momentum provides a complete support system, referred to as “Momentum”, for moms who are returning
+from any kind of maternity leave. It is a six-month adjustment program in which the access of these women
+is eased out gradually, so they are not expected to return and start working immediately. After the
+maternity leave, all women are given 3 months  work from home with reduced hours and reduced workload.
+At the end of the first three months, post-partum women and their line mangers can agree on flexible
+working arrangements (there are several choices available) for the next three months. Momentum also
+includes two support groups, one for new moms and one for new fathers, which is supported by a qualified
+psychologist who provides useful counseling and coaching in regular support group meetings. Grief
+counseling for grieving parents, and post-partum depression support is also provided through a qualified
+mental health practitioner.CATEGORY 7: WORK-LIFE INTEGRATION, FLEXIBILITY AND BENEFITS 
+
+
+CATEGORY 8: ASSESSMENT, MEASUREMENT AND RESEARCH 
+Organizations that are implementing best practices are actively involved in assessing the effectiveness of their DEI initiatives.
+The assessment tools they are using can be grouped into two themes; gender DEI analytics and gender DEI research.
+
+Gender DEI analytics
+Additional DEI analytics which were used by some of the participating organizations are presented in Table 9.
+
+Table 9: Examples of additional dei analytics used by organizations
+1. Number of females in people management workforce
+2. Number of voluntary trainings and on-demand trainings provided to females
+3. Number of females in the head office
+4. Time to hire females
+5. Cost to hire females
+6. Number of females eligible for promotion but not being promoted
+7. Number of females hired each month
+8. Percentage of female hiring out of the overall hiring
+9.Comparison of the number of females inducted with the number of females who have left
+position-wise
+10.Scrutiny of positions replaced by a male hire after the exit of the previous female position
+holder and vice versa
+11.Detection of gender discrimination in grades awarded to male versus female employees in
+their performance appraisals
+12. Number of mentorships given to female employees
+13. Pay gap (induction, promotion, and exit)Additional DEI analytics which were used by some of the participating organizations are presented in Table 9. GENDER DEI TOOLKIT
+
+Gender DEI research
+Organizations use various surveys and data collection techniques to conduct research and assess their DEI initiatives. Data
+and analytics provide the ability to identify whether there are any gaps, prioritize areas for action and enable ongoing
+measurement of progress. The tools used for gender DEI research include DEI items in employee engagement surveys, focus
+group discussions on DEI, pulse surveys on DEI, coverage of DEI in exit interviews, DEI one of the themes in 360-degree
+appraisals and benchmarking for DEI.
+
+Focus group discussions
+
+DEI one of the themes in 360-degree performance appraisals:
+A 360-degree performance appraisal takes place
+when employers evaluate employee performance
+from multiple sources instead of only one-on-one
+feedback from a direct manager. Once all the
+feedback is collected, it is used to measure employees’
+strengths, weaknesses and skills and can provide a
+well-rounded performance review. While 360-degree
+appraisals are more of a developmental tool than a
+rating tool, many organizations integrate this
+performance review system with other evaluation
+tools to accelerate improvement company-wide.
+Organizations such as EPCL identify specific themes
+regarding gender gaps that are reflected in different
+persons’ feedback in the 360-degree assessment in
+performance appraisals.
+
+Focus group discussions:
+A focus group discussion on DEI involves
+gathering people from similar or diverse
+backgrounds and experiences together to
+discuss a specific topic of interest related to
+DEI in the workplace.  Questions are asked in
+these group discussions about the perceptions,
+attitudes, beliefs, opinions or ideas of the
+participants. The PTCL Group has focus
+group discussions in order to identify the root
+cause of any inequality that may exist.
+
+DEI items in employee engagement surveys:
+DEI items in employee engagement surveys
+Organizations such as Teradata, PTCL Group  
+and Unilever include DEI items in their
+Employee Engagement Survey (EES). The
+data collected from these surveys is dissected
+under the lens of DEI to identify patterns of
+non-inclusivity highlighted by the employees. 
+
+Pulse surveys on DEI:
+Some organizations such as MMBL conduct
+pulse surveys to understand if women in their
+organization feel safe, respected and
+comfortable in their workplace. These pulse
+surveys are mainly conducted to gather
+women's  feedback, in order to develop a
+strategy that best caters to their needs and
+priorities.
+
+Coverage of DEI in exit interviews:
+Exit interviews are carried out when an
+employee is leaving the organization. Several
+companies such as FINCA Microfinance
+Bank Limited, Jazz, JS Bank conduct exit
+interviews to improve their policies, and to
+help and try retain the female employees who
+plan to leave.Coverage of DEI in exit interviews
+DEI one of the themes in 360-degree
+performance appraisalsFocus group discussions
+
+Benchmarking for DEI:
+Benchmarking is the process of measuring key
+business metrics and practices, and comparing
+them within business areas or against a competitor,
+industry peers, or other companies to understand
+how and where the organization needs to change in
+order to improve performance. Bank Alfalah
+periodically sets DEI-related internal and external
+benchmarks to track progress on DEI. In some
+organizations, KPIs are set for the departmental
+heads to achieve an optimum number of women in
+their respective departments.
+
+Categor 9: DEI COMMUNICATIONS 
+Numerous communication mediums are being used by organizations to promote DEI internally as well as externally. The
+aim is to maintain an interactive environment, and to provide employees an easy access to DEI related information, and
+to communicate with external audiences about DEI related initiatives and issues.
+
+Figure 10 : Tools for DEI Communications 
+Internal communication channels
+Internal web-spaces to promote DEI
+DEI discussions in town hall meetings
+DEI coverage in employee newsletters
+Internal meeting sessions on DEI
+Internal IVRs and SMSs for DEI Examples of internal communication channels being
+used by organizations are:External communication channels
+External DEI communication using social media
+External DEI digital campaigns Examples of external communication channels being
+used by organizations are:
+
+Industry Examples of Tools for DEI Communications 
+
+Internal communication channels
+Examples of internal communication channels being
+used by organizations are:
+Internal web-spaces to promote DEI
+DEI discussions in town hall meetings
+DEI coverage in employee newsletters
+Internal meeting sessions on DEI
+Internal IVRs and SMSs for DEI
+
+External communication channels
+Examples of external communication channels being
+used by organizations are:
+External DEI communication using social media
+External DEI digital campaigns
+
+Internal web spaces used to promote DEI 
+Table 10 provides examples of internal web spaces used to promote DEI.
+
+Table 10: Examples of internal web spaces used by organizations to promote dei
+
+Bank Alfalah: Bank Alfalah has an email group "Women at Bank Alfalah" on which the bank sends its female
+employees women-centric articles. Internally, communications are rolled out through its learning
+management system, staff TV channel and HR portal.
+ 
+FINCA Microfinance Bank : LimitedFINCA Microfinance Bank Limited celebrates International Women’s month instead of celebrating it
+for a single day. They have podcasts, interviews and panel discussions to raise awareness. The bank
+also uploads the material regarding how it celebrated this month (including free health clinic,
+awareness sessions, trainings on financial literacy etc.) on the platform of FINCA Impact Finance,
+Yammer. Further, the bank has made a WhatsApp group to interact with its female employees.
+Regular refreshers are sent to all staff members throughout Pakistan via emails (in English as well as
+Urdu) regarding code of conduct, dress policy, and workplace harassment.
+Jazz Jazz has several platforms including an internal portal and mobile app “People Hub” where all the
+announcements, including DEI-related announcements are made. In addition to this information
+about DEI, initiatives and policies are also released on emails, flash messages as well as on Workplace
+by Meta. Jazz has also introduced an employee resource group for all women and is expanding it for
+PWDs, allies and other forms of diversity within the organization. Micro-learnings and small videos
+are shared on this channel for the purpose of raising awareness.
+
+JS Bank: Employees of JS Bank have access to internet portals called Learning Management System and
+Decibel, where all important announcements are available for people who are part of the organization.
+Emails are another important source of communication, whereby the DEI team rolls out emails
+providing guide and information about DEI. 
+
+MMBL: In MMBL, female employees from top management as well as female employees working in any far-off
+branch are part of a WhatsApp group. This group enables interaction and provides a platform to
+women to communicate their problems so that they can be facilitated accordingly. They can share
+their achievements, provide feedback, or ask for clarity on any matter of concern.
+
+PTCL: The platform Workplace is used in PTCL Group to run numerous awareness campaigns such as
+“Diversity at the PTCL Group”, to educate employees about D&I related terminology, and spread
+knowledge about diversity and inclusion across the company. Moreover, the Pink club at PTCL Group
+runs different campaigns for engagement purposes. The organization also ran a company-wide DEI
+awareness campaign in 2021 through HR news bulletin. In this campaign, a news bulletin that
+encapsulated DEI related efforts was released every Monday. It has also created a DEI work group on
+Workplace app which has about eight thousand and one hundred employees. Posts are shared with
+employees and news about sponsorships are also released so that all the employees and management
+staff remain aware of the organization’s preferred roadmap for DEI at all times.
+
+Unilever: Unilever has an Internal SharePoint portal that includes an entire module on DEI. The module shares
+information regarding Unilever’s DEI initiatives. 
+
+
+DEI discussions in town hall meetings
+A town hall meeting is a company-wide event hosted by members of the upper management, with the intention to
+keep the workforce updated about business results, changes, and the general direction of the company. Several
+organizations use general town hall meetings to discuss DEI issues, or hold specific town hall meetings on DEI. In
+Teradata, the topic of values and DEI is included at every town hall meeting which is conducted to include all
+employees in broad DEI discussions. Similarly, S&P Global conducts town hall meetings to communicate the
+company’s DEI values and efforts.
+
+DEI coverage in employee newsletters
+An employee newsletter of a company is an electronic or printed communications piece that is used by an
+organization for its internal communication. Some organizations use it to inculcate the organization’s DEI
+orientation in the minds of all of its employees. For example, FINCA Microfinance Bank Limited publishes success
+stories (national and international) of female employees in its newsletter including the success stories of females who
+started their career as branch managers and are currently at the position of regional manager. S&P Global is another
+organization that uses newsletters to communicate the company’s DEI values and efforts.
+
+Internal meeting sessions on DEI
+A meeting session is a gathering of two or a limited number of people for the purpose of making decisions or
+discussing company objectives and operations including DEI-related issues. Meetings are generally conducted in
+person in an office; however, with the rise of video conferencing technologies, participants can join a business
+meeting from anywhere. The British Council conducted a series of internal meeting sessions on “Safe Space” in which
+male and female employees were invited in separate meetings that were moderated by the deputy director and area
+director (both top-level directors who are managing the operations in Pakistan). Employees shared different
+problems encountered at the workplace which helped the organization to devise interventions accordingly. Another
+series of sessions is being conducted by HR, called “Stronger Together,” to help staff open up about their thoughts
+and feelings about different topics in EDI.
+
+Internal IVRs and SMSs for DEI
+Interactive voice response (IVR) is an automated business phone system feature that interacts with callers and
+gathers information by giving them choices via a menu. It then performs actions based on the answers of the caller
+through the telephone keypad or their voice response. This system is also used by organizations to embrace DEI in
+their routine operations. Along with IVRs, SMSs also facilitate in disseminating specific tailored messages to
+different groups in PTCL Group, while adapting language (English for management and Urdu for non-management
+staff) for better understanding amongst employees.
+
+External DEI communication using social media
+Businesses create their own social media marketing strategy to promote DEI
+externally. For example, Bank Alfalah has a "Women who Inspire" and
+“Women of Resilience” series that are used as a platform to empower women
+by sharing real life inspiring women's journey with external audiences. The
+Women who Inspire series is focused more on the top management, where
+women share messages and advice for the lower level female employees to
+grow in their career. The Women of Resilience series is focused more on the
+women in the lower hierarchal level, to understand their struggles. Posts are
+made which include the name, picture, designation, and message of the
+employee and are shared on LinkedIn. Jazz also runs public awareness ad
+campaigns on transgender rights, women rights and mental health issues on
+social media. Regular press releases are issued on various platforms for
+external communication, as well as for public disclosure of its DEI practices.
+
+External DEI digital campaigns 
+A digital campaign involves raising awareness about DEI across all the digital channels where people engage with an
+organization. Some examples are presented in this sub-section.
+
+EPCL 
+EPCL recently embarked on a gender inclusive
+journey targeted at breaking stereotypes that
+surround working women by communication tools
+and implementing the narrative of normalizing the
+presence of women at various positions in the
+petrochemicals industry. With a digitally driven
+campaign titled “Celebrating Our Women,”
+inspiring stories of female employees were launched.
+The main aim was to break stereotypes that
+surround working women, especially in the field of
+engineering. Four episodes were launched, with the
+following titles. 
+Ghar sai itni dur, akeley kesey rahogi? (How will
+you live alone this far away from home?)
+Shaadi k baad, kesey manage kerogi? (How will you
+manage all of this after marriage?)
+Yeh larko ki field hoti hay, tum larki ho. (This field-
+is for men, you’re a girl)
+Working mother ho? Bacho ko kesey time dogi?
+(You're a working mother? How will you make time
+for your kids?)
+
+TPL
+TPL Corp ran numerous engaging digital
+campaigns during the summer of 2021 for eight
+weeks. The focus of the campaign was to
+enlighten potential employees about how the
+company promotes women, directs constant
+efforts towards creating an inclusive culture, and
+the benefits of working with TPL Corp.
+
+Telenor
+Telenor ran campaigns such as: 
+#SeeTheRealMe, debunking biases around females and communicating their true potential.
+“Myth Busting”, where male mangers advocated female employees as being equally hard working
+and competent by sharing the benefits of working with female colleagues, and how female's
+contributions allowed the organization to gain competitive advantage. The whole practice helped
+getting male leaders/managers on board, and demolishing the mental traps that become a barrier
+in hiring female employees.
+#SpeakUp, reminding employees about different types of harassment and reporting.
+#BreaktheBias, released on International Women’s Day where Telenor Pakistan's women
+narrated their stories on how they broke the biases in their workplace 
+
+
+CATEGORY 10: DEI LEARNING AND DEVELOPMENT 
+DEI LEARNING AND DEVELOPMENT 
+Organizations conduct numerous trainings in an attempt to create a diverse, equitable and inclusive culture, so that all
+employees hold similar beliefs regarding gender DEI. Such trainings become a source of enlightenment for employees
+about the concept of gender DEI, and help them to take practical steps to embrace and enhance DEI in the workplace.
+These trainings are provided to all employees, including leaders, to foster an inclusive environment. Industry examples
+related to such trainings can be clubbed into two groups; Popular DEI trainings and additional DEI training and
+learning initiatives. 
+
+Popular DEI trainings
+Popular DEI trainings that are offered by many organizations include:
+Sexual harassment training
+Gender sensitization training
+Unconscious bias training
+
+Examples of popular DEI trainings
+Abacus recently dedicated an entire month to
+carry out trainings on unconscious bias, gender
+sensitivity, sexual harassment and code of
+conduct, which were mandatory for all
+employees. Bank Alfalah launched an e-learning
+platform in 2021 to train and educate their
+employees on overcoming gender stereotypes
+and unconscious bias. The organization also
+carries out sessions for women on handling
+sexual harassment, in an attempt to give them
+the courage to speak up.
+ 
+In order to raise awareness about gender and
+workplace harassment for females at all
+organizational levels, FINCA Microfinance
+Bank Limited carries out online focus group
+sessions via Microsoft teams every month.
+Females are educated on organizational values,
+reporting channels and accessibility. JS Bank conducts trainings on harassment
+and gender sensitization. Their gender
+sensitization training is run specifically for
+customer facing staff, and ensures that at
+least one person at one customer touchpoint
+serves as a 'Gender Champion'. It trains them
+on appropriate conduct, awareness on
+harassment, gender biases and the necessary
+considerations and etiquettes to follow while
+interacting with women.
+
+At Unilever, each and every function has
+focused training agendas on female capability.
+In 2022, the organization is carrying out gender
+sensitization trainings as a refresher. 
+
+The gender sensitization trainings held at
+Hashoo Group not only help raise awareness
+on the matter, but the idea is to unpack the
+concept in a manner that it pushes people to
+think critically, internalize it, own it, and
+connect with it. The group provides small-
+nugget size organic training of 1-2 hours, four
+times a week or once a month, to a group of 10
+to 12 individuals, on an on-going basis. HRSG has trained employees on social
+compliance policy i.e., prohibition of
+harassment and abuse, and there are further
+plans to introduce sensitivity trainings on
+DEI.
+
+A gender audit was conducted by PPAF
+along with the training “Dignity At
+Workplace”. A renowned trainer was invited
+who generated the concept of D&I  that
+eventually led to the creation of modules on
+gender sensitization. Apart from that, PPAF
+has been carrying out “16 Days of Activism”
+every year since 2014. The program enlightens
+employees on gender based violence by
+conducting campaigns.  
+
+PTCL Group plans to develop portfolios and
+provide trainings around capacity building,
+gender sensitive vocabulary and gender
+stereotypes in the coming year.
+
+British Council, Jazz and Telenor are also
+among the organizations which provide
+trainings on unconscious bias.
+
+TPL Corp provides training on harassment
+and makes sure that all employees go
+through this training as the organization has
+zero tolerance policy towards harassment.
+
+Additional DEI training and learning initiatives
+Abacus
+At Abacus, the corporate HR department runs bi-annual training programs with regards to aligning
+employees career development plans through classroom level soft skill trainings on D&I policies, programs and
+practices.
+Bank Alfalah
+Bank Alfalah plans to start a series on e-learning for first-time mothers and their line managers. The
+transition of entering motherhood and having to come back to work is challenging and the organization
+acknowledges it. Educating line managers on how to be more supportive towards these mothers is likely to
+make the transition easier.
+
+FINCA Microfinance Bank
+FINCA Microfinance Bank Limited conducts a mandatory 45-minute training every March on D&I covering
+several modules. A quiz is held afterwards, and an employee needs to score 50% or above to move forward. 
+ Moreover, a one-day training is conducted on stress management and team building. The company also
+deputes women champions which could be males or females at all of their touch-points. Their role is to
+provide a safe space for women, both staff and customers, to educate females about financial inclusion, and  to
+extend their learnings to others.
+
+Interloop
+Interloop conducts numerous trainings on promoting equality and diversity for the management staff, and
+the company also plans to extend these trainings for the non-management staff.
+
+Jazz
+Jazz conducted a MCC campaign to get male managers/leaders on board so that they can show their support, and
+share facts on how females provide a competitive advantage and other benefits to their teams. The company has
+also conducted concentrated trainings with EY, which included trainings on inclusive leadership and becoming
+male champions of change. Jazz also provides other DEI related trainings which include micro aggressions and
+implicit bias trainings for all employees; inclusive management training for all people managers and leaders, and
+inclusive culture and everyday respect training for its leadership team. The organization also offers micro learning
+using e-learning platforms. 
+
+Teradata
+Teradata conducts acknowledgment sessions called “Diversity Dialogues” to ensure an in-depth
+understanding about DEI and its challenges. External speakers are invited to share facts, stories, statistics,
+challenges and practices related to DEI, while also allowing internal volunteers to share their stories about
+discrimination and inequity. The activity creates sensitization of the matter, by allowing individuals who have
+gone through such experiences to talk about them, while allowing anonymity.
+ 
+TPL Corp has conducted various training sessions. The sessions were for all management staff and aimed at
+teaching them the ways to enhance diversity, and be more inclusive in managing their teams. These se also
+focused on collaboration, transparency and removing unconscious bias.TPL CorpGENDER DEI TOOLKIT
+
+S&P Global
+S&P Global has a regular educational webinar series, called "Courageous Conversations", in which leading
+experts, recognized advocates and authors in the DEI space speak on a variety of DEI topics, including anti-
+racism, transgender equality, and colorism at both micro and macro-levels. Through these conversations, S&P
+Global aims for its people to go through the journey of learning together as an organization. A follow-up open
+forum debrief session, called "Brave Spaces" also provides the opportunity for people to share, ask questions,
+and have constructive discussions, conducted in a safe space for everyone.
+
+Telenor
+The leadership D&I program at Telenor provides training on D&I to both senior and middle managers. The
+organization also conducted a female leadership program, which was a workshop to uplift senior female
+leaders. The aim was to better equip them to manage diversity within their teams while also managing their
+own and the biases of of their subordinates. The company also carries out the MCC campaign, focused on
+building male sponsorship for gender DEI.
+
+CATEGORY 11: CONNECTING DEI AND SUSTAINABILITY 
+Organizations extend their DEI believes and practices outside the workplace to play their part in creating a society that values
+its women as much as men. Gender DEI practices are extended and broadened to cater to sustainability and its multiple
+dimensions. Examples of such practices can be divided into two main categories; connecting DEI and sustainability externally
+and connecting DEI and sustainability internally.  
+Connecting DEI and sustainability externally
+
+Trainings for female customers and clients
+MMBL
+MMBL's strategy for women's empowerment includes
+a program a called Women Inspirational Network.
+This program facilitates female customers and
+borrowers (rural and urban females) who want to
+become entrepreneurs, by training and digitally
+equipping them so that they can achieve their desired
+goals.
+
+At FINCA Microfinance Bank Limited, the operations
+department along with the marketing and HR
+department, run a National Literacy Program (NLP)
+targeting financial literacy. The focus is to have as
+many females in the program as possible and ensure
+financial inclusion of women. This initiative is not just
+limited to employees at FINCA, but is extended to its
+female clients as well. FINCA Microfinance Bank Limited Gender DEI practices that fall under the theme of connecting DEI and sustainability externally are divided into trainings for
+female customers and clients, external scholarship programs for women, external DEI research and collaboration with DEI
+related NGOs.Trainings for female customers and clients
+
+External scholarship programs for women
+British Council:
+British Council offers Scottish scholarships to
+female students from a lower socio-economic
+background. Hundred plus scholarships are
+offered for Bachelors and Masters. The
+company also offers STEM scholarships in
+which female students are sent to the UK for
+skill development.
+
+External DEI research 
+S&P Global Pakistan:
+S&P Global Pakistan is working in close
+partnership with UN Pakistan Women's Council
+on the Future of Women and Work. A recent
+initiative explored the impact of the pandemic on
+women in Pakistan. A survey was designed by
+Texas A&M University, which was kept open for
+six months. Moreover, The U.S. Pakistan Women's
+Council, S&P Global, Texas A&M University, and
+the U.S. Pakistan Business Council will convene
+companies and private sector-led non-profit
+organizations to exchange lessons learned, for
+policy development and recommendations for the
+advancement of women.
+
+Collaboration with DEI
+related NGOs
+Feroze1888
+Feroze1888 considers it their responsibility
+to create job opportunities and raise
+awareness to encourage women to utilize
+their talent. One of their 14 sustainability
+goals is solely concerned with working
+towards the betterment of the society. The
+company actively interacts with
+foundations such as Meman foundation
+and Selaani. Such collaborations allow
+room for creating employment
+opportunities.
+
+Connecting DEI and sustainability internally
+Organizations that have DEI best practices also take initiatives which connect DEI with sustainability internally with an
+aim of embedding it deep into the organizational culture. The domestic violence support offered by Unilever is an example
+of such practices. 
+
+Domestic violence support for women 
+Unilever implements initiatives to provide domestic violence support for its female employees.
+A policy was devised in 2021 addressing "How to manage domestic violence beyond the
+workplace". It provided complete facilitation to the employee from a perspective of pulling
+them out of the dreadful situation. This includes giving them housing for a certain period of
+time, providing them with mental well-being support, arranging lawyers, and providing any
+other support or assistance they may need. Unilever also launched a campaign which was
+reflected in their advertisements. A small ad which revolved around becoming "unmute" was
+made, empowering victims to speak up.  A phone line was also attached with the Ministry of
+Human Rights, encouraging women to report domestic violence cases.Unilever
+
+
+Category 12: Community, Government Relations and Philanthropy Listen to and serve societyThe external group
+Organizations committed to DEI realize that their responsibilities are not limited to the workplace. Therefore, they
+partner and collaborate with external parties, or take initiatives for women in the external community to provide these
+women with opportunities they would otherwise remain deprived of. Examples of initiatives under this category can be
+divided under  two themes; support for women-led businesses and community-based capacity development programs
+for women.
+
+Support for women-led businesses 
+Table 12 presents examples of steps taken by various organizations to extend their help for small women-owned businesses,
+and encourage and empower women to become successful entrepreneurs.
+
+Table 12: Examples of organizations providing support for women-led businesses 
+Bank Alfalah:  Bank Alfalah has a toolkit for the SME sector which can be used by women to further
+enhance their businesses. Visits are made by Bank Alfalah to organizations created and led by
+women to address ways their businesses can be expanded. Bank Alfalah  was also actively
+involved in the Kamyaab Jawaan scheme introduced by the ex Prime minister, to help several
+women.
+  
+Jazz: Jazz has programs in place to enhance digital literacy among girls, maximize female-led
+enterprises in the start-up ecosystem and enhance the representation of women across ICT.
+PPAFPPAF conducted an event called Women’s Jamboree in which women who had won Amtul
+Raqeeb award (acknowledgement for women who had been change makers) over the years
+were gathered with the purpose of networking. They shared the initiatives they had taken,
+and how they had supported their businesses using the money they had won. 
+
+PTCL Group: PTCL Group believes in empowering women, and has provided business to small scale
+women-owned firms on several occasions in order to give them the opportunity to create
+industry links.
+
+TPL Corp: TPL Corp makes continuous efforts to support women in all spheres of life. The company
+partnered with a women led organization of under privileged females in 2021 which makes
+artifacts. The organization was given TPL Corp's posters of nearly 50 by 50 feet to recycle
+and convert them into beautiful artifacts, which were presented to employees on
+international women’s day.
+
+Community-based capacity development programs for women
+Organizations that have embraced DEI partner with different institutes to provide community-based capacity development
+programs for women to prepare them for starting their professional careers. These programs provide opportunities to many
+women and equip them with the skills required to join the workforce. Examples under this theme include trainings for
+budding female entrepreneurs,  community-based leadership development programs for women, community-based
+mentorship programs for women, partnerships with other organizations and external awareness campaigns. Table 13
+presents examples of industry practices which come under this theme. 
+
+Table 13: Examples of community-based capacity development programs for women 
+
+Hashoo Group: Hashoo Group established a non-profit organization called Hashoo Foundation to enable
+the underprivileged to become self-reliant through various humanitarian and capacity
+building approaches. The Foundation further established, a social enterprise called Hashoo
+Hunar (HH) over the last few decades of its service to the development sector. HH works to
+alleviate poverty through human resource development initatives, such as youth
+development centers, sustainable livelihoods, education and health and nutrition programs,
+with a gender equitable focus.
+
+Bank Alfalah: Bank Alfalah’s SME team has a dedicated department that initiates awareness campaigns on
+financial inclusion of women. Partnerships with organizations such as Sameera and Ladies
+fund are formed to educate women on financial, as well as non-financial literacy.
+
+EPCL: EPCL partnered with a training institute that aids the company in imparting technical skills
+in the communities it works with; this includes the Gul Shane Hadid community, and
+people living around port Qasim. The company is also engaged in talks with WE power,
+Women Engineers (Pakistani non-profit organization) and Million mentors (international
+organization working to increase women representation in STEM) to enhance their efforts
+for the community. 
+
+
+Interloop: Interloop’s HULT Prize Entrepreneurial program promotes entrepreneurial mindset
+amongst women in the society. This event took place in collaboration with the Government
+College Women University Faisalabad (GCWUF) entrepreneurial society and University of
+Agriculture Faisalabad (UAF). Interloop also sponsored a fashion design course for females
+in which an MOU was signed with the Pakistan Network Training Institute Lahore to
+support deserving female students for a 2-years BA fashion designing course. Interloop also
+sponsored the IBA-CED program. The aim was to promote entrepreneurship in women and
+around 300 participants (males/females/families) benefited from the program.
+
+MMBL: Partnerships with CIP, DARAZ, NIC & GDG are formed by MMBL for capacity building
+activities for women borrowers and entrepreneurs.
+
+Jazz: Jazz conducted a bootcamp with the National Incubation Center (NIC) team, in which
+female entrepreneurs presented their business pitch and were also provided entrepreneurial
+trainings to support their ideas. The company is also assisting the safe transition of women
+to the digital world, and as part of GSMA Connected Women Commitment Initiative, it has
+committed to increase the proportion of women in its mobile internet customer base by 8
+percent by 2023 with a dedicated focus on female smart phone ownership. Also, Jazz and
+Chughtai Lab collaborate to offer discounts on female specific medical tests. Jazz has also
+introduced Pink Card though which women can avail 50% discounts on various female
+related medical tests. The cards are issued free of cost, and women can add five more family
+members on the card, regardless of their dependency or insurance coverage.
+MMBLPartnerships with CIP, DARAZ, NIC & GDG are formed by MMBL for capacity building
+activities for women borrowers and entrepreneurs.
+
+PPAF: PPAF carried out a leadership training program called "Irada". It was a two days’ event. On
+the first day, community women met donors and narrated their experiences to them. The
+second day was focused on their capacity building, which highlighted and worked on
+strengthening areas such as confidence building, leadership, team management and
+teamwork. 
+
+PTCL Group: Inclusion is one of the five focus areas of the CSR Policy at PTCL Group. The organization
+designs and executes interventions that help different population groups especially w.r.t.
+gender and disability. The organization believes in creating sustainable partnerships with
+the development sector so that implementation of the CSR projects can be done by
+organizations that have good penetration in impoverished community groups.
+
+S&P Global: S&P Global, in collaboration with U.S.-Pakistan Women's Council (USPWC), has pledged
+to mentor 20,000 girls and women in Pakistan over a period of 3 years through the "Million
+Women Mentor" program. Million Women Mentors is a movement to spark the interest and
+confidence of girls and women to pursue and succeed in STEM careers, and pursue
+leadership opportunities through the power of mentoring. Through this pledge, S&P Global
+wants to play a role in bridging the global skills gap, and create an inclusive economy.
+
+
+CATEGORY 13: SERVICES AND PRODUCTS, MARKETING AND RESPONSIBLE SOURCING
+
+Industry Examples of Tools for Services and Products, Marketing and Responsible Sourcing
+There were limited industry examples under the categories of services and products, marketing and responsible sourcing.
+Overall, these areas need considerable attention. The GDEIB 2021 standards provide guidance about the impact of these
+categories. The standards explain that it is vital for organizations to embed DEI considerations in service and product
+development. Customers tend to be the most crucial stakeholders for an organization, thus addressing their perceptions and
+needs sets the tone for how they will engage with the company going forward. It is also integral to ensure that biasness towards
+females is not reflected in any form in the products or services offered by an organization.
+Marketing and customer service strategies attract and retain the customer base. The impact that marketing strategies can have
+on creating an image of the organization in the consumers’ mind is significant. Truly diverse and inclusive marketing strategies
+require that a message resonate consciously and subconsciously with the audience, connecting with them on a deeper level. If
+the customers cannot identify with the message the organization is advertising in its marketing campaigns, retaining them is
+going to be a challenge. Customer service reflects brand image, mission and core values. All these elements are interconnected.
+Thus authentic efforts of embedding DEI in customer service are critical.
+Responsible and ethical sourcing refers to a commitment to purchase a significant percentage of goods and services from
+organizations committed to high standards in DEI, sustainability, ethical behavior, and Fair Trade. Further, the organization
+supports its current and potential suppliers in maintaining high standards through education and systems that enable them to
+compete equitably with other suppliers, the ultimate goal being the creation of sustainable, successful, and prosperous societies.
+
+Gender awareness in services and product development:
+Organizations are taking steps to elevate the economic condition of women in an attempt to reduce inequities, especially
+those encountered by women. For this purpose, they make conscious efforts to offer products and services which equitably
+cater to the needs and wants of both genders. Some industry examples are presented below. 
+
+PPAF
+PPAF has had several poverty graduation initiatives that
+aim to reduce poverty from the lowest levels and bring
+economic and social prosperity.  These initiatives have been
+implemented in over 100 districts and have influenced 16.28
+million people with 50% women. The organization also
+ensures that there is no discrimination when it comes to the
+company’s interventions. For example, borrowers of
+microfinance loans are 50 percent females. Another
+initiative taken by PPAF is their “Art Residency” project,
+which was a musical journey out of poverty for indigenous
+musicians, with a focus on the marginalization of musicians
+within society, preserving endangered indigenous musical
+instruments and folk economy. Diversity was a core
+component of the Art Residency in Islamabad as a female
+vocalist and apprentice duo was added as part of the
+residency to achieve more gender balance. 
+
+JS Bank
+JS bank has a specific product umbrella, "JS Her"
+which represents all the products specifically
+designed for women. Additionally, the bank has
+separate loan products for women who want to
+start their own business, namely JS Khud
+Mukhtar.
+
+Gender sensitivity in marketing and customer service
+Bank Alfalah
+Bank Alfalah is developing gender champions at customer touchpoints bank wide. These champions can either be male or
+female, and receive a sensitization training, along with the detail about every facility that is available for women in the
+bank. 
+ 
+Gender equity in sourcing
+Organizations make a conscious effort to have ethical companies on board while conducting business. For instance,
+Teradata’s code of corporate governance mandates them to ensure that the company they are doing business with, is not 
+unethical or involved in practices that by any means maybe regarded as unethical, immoral or against the cultural norms
+of that country and its corporate sector. 
+
+SECTION  3
+Other diversities  The way forward
+
+Other Diversities 
+The purpose of this toolkit was to provide examples of gender DEI best practices and to encourage organizations in Pakistan
+to increase the adoption of such practices. However, many forms of diversity co-exist, and organizations are tapping into
+these dimensions in order to fully embrace DEI in its true essence. Examples of other diversities for which organizations in
+Pakistan are taking initiatives includes religiously and culturally diverse individuals, persons with disabilities and
+transgenders.
+
+Industry Examples of initiatives for other diversitie
+Religious and cultural diversity
+Organizations that have embraced DEI are making efforts to inculcate religious and cultural diversity in their workforce,
+by prioritizing individuals from different backgrounds. A few industry examples are discussed in this subsection. 
+
+PTCL Group
+At PTCL Group, Talent Acquisition teams are encouraged to share
+analytics on the kind of candidates they are attracting for each category
+(gender, religious, cultural) and whether there is a need to explore other
+forums for job advertisements. Talent Management teams are asked to share
+growth patterns for each category to gauge a pattern of exclusion (if any)
+exists. Performance Management teams are also asked to share data on the
+same lines and are encouraged to address grievances of population groups
+who may feel they are being excluded due to their demographical
+background. PTCL Group has offices located in all five provinces and
+cherishes the cultural and religious diversity that their employees bring to
+the organization. All employees are entitled to take leaves based on their
+religious and cultural commitments. Line managers are encouraged to
+adjust their schedules around festive times of the year. Close-knit teams get
+together to celebrate religious occasions with their colleagues at the regional
+level.
+
+MMBL 
+At MMBL, religious minorities have
+been facilitated through the
+introduction of minority leaves. All
+the religious minorities (Hindus,
+Christians etc.) are allowed to take a
+day off on their respective religious
+occasions and on the next day as well.
+Minorities get holidays on Muslim
+festivals, as well as  their own religious
+festivals. Their religious festivities are
+celebrated in the organization as well.
+MMBL also wishes and sends gifts to
+its non-Muslim employees on their
+religious occasions. 
+
+SECTION 3: CONCLUSION Teradata and British Council
+Persons with disabilities (PWDs)
+
+Organizations that have embraced DEI are very actively involved in creating a space for those with  disabilities. Some
+examples of these initiatives are presented in this sub-section. 
+HRSG partnered with NOWPDP to support PWD’s. The organization was part of the "100 Days’ 100
+Lives" campaign, where individuals from NOWPDP were mentored by HRSG employees, post which the
+said individuals are placed within HRSG or with its partners. Last year the company hired and mentored
+two individuals internally. 
+
+PTCL Group's  most prized intervention for PWDs is their "Justuju" internship program. It is a
+structured 6-week paid internship program. PTCL Group partners with organizations such as Deaf Talk
+and NOWPDP to carry out this program. Every intern has a mentor assigned to them from PTCL or
+Ufone. The program aims at helping persons with disabilities kick start their corporate careers. Before
+the program was implemented, PTCL headquarter’s building was assessed in to order to ensure
+accessibility for all. Currently, the headquarters of PTCL, Ufone tower, Karachi zonal headquarter, and
+Lahore zonal headquarter are all accessible for PWDs. The industry hiring rate of interns under the
+Justuju Internship program is 30%. 
+
+Teradata has held online cultural
+sensitivity workshops for all its
+employees. British Council also carried
+out trainings on anti-racism for all its
+employees in Pakistan after the George
+Floyd occurred incident. 
+
+Jazz celebrates its diverse workforce in the form of various events,
+such as Holi for Hindu colleagues with leave for them on their
+special day, Christmas leave and celebration for Christian staff,
+and festivities for Muslim holidays. To support low-income Muslim
+colleagues, Jazz also arranges ration packs and iftar packs during
+Ramadan.
+ 
+PPAF had a two-week internship program in which people from
+various national and international universities were selected. The
+organization was able attract individuals from all across the
+country, including Balochistan, Sindh, Interior Sindh and other
+far-flung areas. Students from all backgrounds were encouraged to
+apply, and their finances were also covered. 
+ 
+Abacus is an organization which not
+only has an inclusive environment for
+religious minorities, but also promotes
+them to leadership positions. Their
+business process outsourcing practice
+area is led by a Christian, while another
+area is led by a Hindu.
+
+MMBL has incorporated differently-abled persons in its workforce through its program “Hum Qadam”
+and provides them with suitable infrastructure in the head office. This practice is being expanded in other
+branches as well.
+
+Transgenders
+Transgenders of Pakistan are often left ignored in Pakistan. Not many organizations are taking into account this group
+of people, organizations implementing best practices of DEI are planning to include them in their workforce in the near
+future. MMBL is one such organization that is aiming to take specific steps to include transgenders in their workforce.
+Unilever is already quite progressive in this regard. Trainings are provided under the trans-programme in order to
+sensitize employees before the induction of trans individuals in Unilever’s ecosystem. Jazz has an inclusive culture with
+transgenders already in its workforce. Recently, Jazz has run a massive campaign, "Super for Change", for transgender
+rights. The campaign included television commercials, social media campaigns, storytelling events and internal story
+sharing competition with their transgender community, and special packages for supporting the transgender
+community.JS Bank established a partnership with Careem that offers convenient, affordable and safe transport to
+PWDs with certain discounts in a month on the rides. 
+British Council provides disability sensitization trainings, to make the organization more inclusive for
+disabled people. Jazz has enabled infrastructure provision in the organization such as ramps, lifts and specialized
+lavatories to support PWDs in its workforce. Persons with disabilities are provided transport facility for
+work travel. Awareness training for line managers and colleagues was arranged to make sure that PWDs
+are supported in the workplace, and feel a sense of belonging. Jazz is also launching a focused internship
+program for PWDs, "Spectrum", which is aimed at providing internship for persons with visible and
+invisible disabilities. 
+Telenor has a flagship program called the "Open Mind Trainee" (OMT) through which the company is
+empowering differently abled persons. This is also a yearly program in which people with different needs
+are hired, trained and given the exposure which is needed from a multi-national perspective. The whole
+office facility of Telenor is designed in a way that facilitates PWDs.
+
+The way forward
+This toolkit focuses primarily on gender diversity and identifies tools that organizations may adopt to support
+their gender DEI strategies. These tools can be used by both the participating organizations to further enhance
+their DEI efforts into untapped areas, and also by other organizations to better understand the kind of
+initiatives that can be taken. The toolkit also briefly sheds light on organizational practices catering to other
+forms of diversities in Pakistan i.e. cultural and religious diversity, PWDs and transgenders. 
+While some organizations are actively working to include other forms of diversities in their workforce, this
+notion still requires wider application and acceptance. This can be done in multiple ways. For instance, the
+existing practices should be communicated via an accessible medium, such as a toolkit dedicated to other
+diversities, to motivate organizations to implement them. Moreover, detailed research should be conducted on
+the benefits associated with creating more inclusive workplaces, including but not limited to increased
+employee engagement, innovative behavior at work and better connection with customers. Indigenous material
+covering other related areas, such as the frequent challenges encountered by organizations in implementing DEI
+practices, and practical steps to overcome them, also needs to be developed. 
+
+Additionally, there should be more training and peer-to-peer learning sessions to share best practices and
+challenges in implementing these practices. Such sessions can be arranged within organizations, at various
+organizational levels, to create awareness amongst all employees. Targeted training can ensure that employees,
+irrespective of their position/level hold a shared meaning of DEI, understand the organization's commitment
+towards it, and ultimately play their part in fulfilling the DEI goals. Professionals interested in DEI topics
+should be brought together at various forums to share learnings and have topical discussions about the state of
+DEI in their respective workplaces. Such events could lead to valuable discussions and learnings on how to
+advance DEI and foster a sense of belonging in organizations. Furthermore, indigenous case studies and success
+stories relating to various forms of diversities should be written and then discussed in universities, to form a
+linkage between industry and academia in this area. All these efforts can collectively create a ripple effect in
+improving DEI in the workplaces across Pakistan. This will give rise to a fair society where everyone feels
+appreciated and uplifted based on competence, rather than being treated inequitably because of personal
+characteristics.
+
+
+An Overview of the Methodology Adopted to Develop the Toolkit
+Methodology
+The Gender DEI Toolkit is based on data collected from 19 organizations operating in Pakistan. Various
+organizations which had won awards for DEI over the last few years were approached from September 2021
+till March 2022. The concept of the toolkit was explained and they were requested to share their gender DEI
+best practices with the MARC team. Interviews were taken with at least one person in each organization who
+was directly involved in the design and implementation of DEI practices in the organization. The purpose of
+the interview was to collect information on various best practices in the organization; the research was not
+designed to collect comprehensive data on all possible DEI practices from multiple sources. As a follow-up to
+the interview, the organizations were also asked to share additional relevant information, documents,
+photographs, etc. that they had mentioned during the interview, and which were not confidential. Some
+examples of commonly shared post-interview material include the DEI vision or mission statements, details of
+DEI-related events, names of DEI programs and trainings, and lists of DEI-related benefits. 
+All interviews were transcribed and added to NVivo, a software for qualitative analysis. Additional relevant
+information from each organization was also added to the NVivo database. Thematic analysis was used to
+extract information from the data using a mix of deductive and inductive approaches. Thus, while some initial
+nodes were identified from the existing literature and the GDEIB 2021 standards, additional nodes emerged
+from the data. All the relevant information from the 19 organizations was coded under the various
+nodes/categories and was read by at least two researchers to ensure that the examples reflected the
+node/category. The names of the nodes were later refined to reflect the categories and sub-categories of the
+“Gender DEI Tools”. Follow-up emails were sent to the participating organizations in which the focal person
+was asked to review the information extracted from their organization to be included in the toolkit, to avoid
+any misinterpretation of information. 
+The first draft of the toolkit was more than 150 pages in length. Based on internal discussions, this was
+reduced to around 100 pages and shared with a few industry experts and some academicians for feedback.
+After incorporating feedback from these experts, the toolkit was condensed to its current length to make it
+concise and user-friendly. Variations in the names of the tools were discussed to ensure that they reflected the
+vocabulary used in the DEI literature and the industry in Pakistan. 
+The purpose of the toolkit is to provide a list of tools and examples of practices under each tool to enhance
+gender equity in organizations in Pakistan. Since its inception, the toolkit was not aimed at presenting
+detailed examples of all DEI practices implemented within participating organizations.The purpose of the
+toolkit strongly influenced the methodology and was kept in perspective during the whole process of
+developing the toolkit.
+
+This toolkit has been designed and developed using one of most popular online graphic design tools called Canva. The
+application was created by a female entrepreneur named Melanie Perkins. She has the honor of being among the two
+percent of female CEOs of organizations which are sponsored by venture capital. Canva has more than 60 million users and
+has facilitated in creating approximately 3.5 billion designs in over 190 countries, making designing simplified and
+accessible for all. The company is also committed to fulfill its social responsibility as it donates a 30% stake in the business
+to a charity that works to end poverty.Canva: graphic design platform used for the toolkitFor further information about GDEIB 2021 standards
+ Download the GDEIB 2021 Standards:  https://centreforglobalinclusion.org/file_download/inline/a1564bf0-9b5d-469a-
+a516-c6d438c79609
+For further information on dei 
+Explore:
+The diversity homepage of HR Metrics for DEI related activities and news in Pakistan:
+https://thehrmetrics.com/diversity/
+The homepage of The Centre for Global Inclusion for global knowledge and resources on DEI:
+https://centreforglobalinclusion.org
+The homepage of EDGE for gender certification for organizations: 
+https://edge-cert.org
+The Global Gender Intelligence Assessment (GGIA) site for an individual gender assessment:
+https://globaldiversityservices.com/products/the-global-gender-intelligence-assessment
+The ISO standards on diversity and inclusion: 
+https://www.iso.org/standard/71164.html
+Special thanks
+The MARC team would like to thank Dr. Amna Basharat, Sabahat Bokhari, Amra Mubashar and Sara Khan for their
+useful comments which helped in refining the toolkit.
+
+© 2022 Management Advancement Research Centre (MARC) 
+FAST School of Management
+National University of Computer and Emerging Sciences, PakistanThis Gender DEI Toolkit is developed on the basis of information on gender DEI best practices
+collected from 19 organizations operating in Pakistan. It presents 47 tools further divided into 80 plus
+sub-categories. These have been identified by the MARC team on the basis of the details of practices
+provided by the participating organizations. The tools are organized under the 13 categories of the
+Global Diversity, Equity and Inclusion Benchmarks (GDEIB) 2021 standards that are published by the
+Centre for Global Inclusion, USA, with the support and input of 112 expert panelists from around the
+world. Thus, the toolkit provides practical ideas that are aligned with global standards, to aid
+organizations in fortifying and enhancing gender diversity in the workplace. Through this toolkit, the
+MARC team aims to contribute towards the Fifth Sustainable Development Goal (SDG 5), namely
+‘gender equality’, by imagineering a future where men and women are working side by side as equals,
+in all spheres of life in Pakistan.   
+The MARC team is extremely grateful to the organizations who generously shared examples of their
+best practices. These organizations (in alphabetical order) are as follows: Abacus, Bank Alfalah,
+British Council, Engro Polymers and Chemicals Limited, Feroze1888, FINCA Microfinance Bank
+Limited, Hashoo Group, HRSG, Interloop, Jazz, JS Bank, Mobilink Microfinance Bank Limited,
+PPAF, PTCL, S&P Global, Telenor, Teradata, TPL Corporation and Unilever.About the Gender DEI Toolkit
+About MARC
+The Management Advancement Research Centre (MARC) was established at FAST-NUCES
+Islamabad to conduct leading edge research in management sciences with the aim to enhance
+knowledge and find solutions for industry challenges. Various Special Interest Groups (SIGs) work
+under MARC, all committed to taking up projects which contribute to the body of knowledge, yet at
+the same time provide a bridge between academia and practice.
+About the Director MARC
+Dr. Sadia Nadeem is a professor at FAST School of Management, FAST-NUCES Islamabad, and the
+director of MARC. She has approximately 24 years of experience of research, teaching and consulting
+in the field of HR. Discrimination and disadvantage in the labor market is one of her areas of
+interest. 
+Please cite the toolkit as: Nadeem, S., Siddiqa, A., Jamil, J., Khan, N., Fawad, R., & Bano. A. (2022). Gender
+DEI Toolkit: Best practices to enhance gender equality in Pakistan. Islamabad: Management Advancement
+Research Centre, FAST-NUCES.
+
+GENDER DEI TOOLKIT: 
+BEST PRACTICES TO ENHANCE
+GENDER EQUALITY IN PAKISTAN 
+
+By Dr. Sadia Nadeem and the DEI Toolkit Team
+FAST School of Management, NUCES, Pakistan
+
+GENDER DEI TOOLKIT: 
+BEST PRACTICES TO ENHANCE
+GENDER EQUALITY IN PAKISTAN 
+
+© 2022 Management Advancement Research Centre 
+FAST School of Management 
+National University of Computer and Emerging Sciences 
+A.K. Brohi Road, H-11/4 
+Islamabad
+Pakistan 
+by
+Sadia Nadeem 
+Ayesha Siddiqa
+Javeria Jamil
+Neeha Khan
+Razeen Fawad
+Ayesha Bano
+
+Please  cite  the  toolkit  as:  Nadeem,  S.,  Siddiqa,  A.,  Jamil,  J.,  Khan,  N.,  Fawad,  R.,  &  Bano.  A.  (2022).
+Gender  DEI  Toolkit:  Best  practices  to  enhance  gender  equality  in  Pakistan.  Islamabad:  Management
+Advancement Research Centre, FAST-NUCES.
